@@ -1,10 +1,31 @@
-Portable-VirtualBox
+绿色联盟Linux  GreensLinux
 ===================
 
-Portable-VirtualBox is a free and open source software tool that lets you run any operating system from a usb stick without separate installation.
+使用windows上的绿色版VirtualBox,放在U盘或者SD卡上,里面有装好的linux虚拟机,用户双击即可启动Linux.
 
-More info is available at http://www.vbox.me/
+### 口号: 让你10秒体验Linux ###
 
-### Building ###
+### 基本目标 ###
+ * 主OS(Host OS): WinXP,Win7,Win8,Win10,Win2003
+ * 从OS(Guest OS): chuangke365,Deepin2015
+### 未来目标 ###
+ * 用户可以通过这个工具备份自己的虚拟机,或者同步自己虚拟机
+ * 用户可以在线下载别人分享的虚拟机模板
+ * 本工具整合了p2p下载
+ * 可以有工具导入其他HostOS,如桌面云,阿里云.
 
-Please see here for information on how to build from source: [BUILDING](BUILDING.md).
+### 依赖项目 ###
+
+ * 绿色版VirtuaBox  http://www.vbox.me/
+ * Linu发行版 chuangke365
+ * Deepin2015
+  
+### 如何编译 ###
+
+从源码进行编译: [BUILDING](BUILDING.md).
+
+### 如何参与 ###
+ 1. 你可以制作自己的虚拟机文件
+ 2. 在你的环境下进行测试并且反馈给我们
+ 3. 直接使用某个虚拟机
+ 

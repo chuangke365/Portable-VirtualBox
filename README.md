@@ -1,10 +1,9 @@
-绿色Linux  GreenLinuxs
-===================
-
 ### 绿色VirtuaBox+Linux虚拟机 ###
 * 面向的用户: 快速体验Linux的Windows小白用户,免安装过程
 * 实现原理: 绿色版VirtualBox里面有装好的linux虚拟机
 * 如何用: 插上U盘,双击可用Linux. 复制到电脑,双击可用.
+* 项目中文名(暂定):秒速Linux
+* 项目英文名(暂定):QuickLinux
 
 ### 口号: 让你10秒体验Linux ###
 

@@ -1,7 +1,10 @@
-绿色联盟Linux  GreensLinux
+绿色Linux  GreenLinuxs
 ===================
+Windows+绿色VirtuaBox+Linux虚拟机
 
-使用windows上的绿色版VirtualBox,放在U盘或者SD卡上,里面有装好的linux虚拟机,用户双击即可启动Linux.
+* 面向的用户是Windows用户那部分想快速体验Linux的小白
+* 绿色版VirtualBox里面有装好的linux虚拟机
+* 绿色版vbox和虚拟机一起放在放在U盘或者SD卡上,插上U盘,双击可用Linux
 
 ### 口号: 让你10秒体验Linux ###
 
@@ -17,7 +20,7 @@
 ### 依赖项目 ###
 
  * 绿色版VirtuaBox  http://www.vbox.me/
- * Linu发行版 chuangke365
+ * Linu发行版 chuangke365  一个仅仅能运行在虚拟机和全志A31S上的发行版
  * Deepin2015
   
 ### 如何编译 ###

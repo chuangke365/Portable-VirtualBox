@@ -1,7 +1,10 @@
 ### 10秒Linux(10secondLinux) ###
-这个主要是给想快速体验Linux的Windows小白,想安装又嫌麻烦，可以先体验一下
-* 实现原理: 绿色版VirtualBox里面有装好的linux虚拟机
+这个主要是给想快速体验Linux的Windows用户,想安装又嫌麻烦，可以先体验一下。
 * 如何用: 插上U盘,双击可用Linux. 复制到电脑,双击可用.
+
+### 实现原理 ###
+* 实现原理: 绿色版VirtualBox里面有装好的linux虚拟机
+
 * 项目中文名(暂定):秒速Linux
 * 项目英文名(暂定):QuickLinux
 

@@ -1,5 +1,5 @@
-### 绿色VirtuaBox+Linux虚拟机 ###
-* 面向的用户: 想快速体验Linux的Windows小白,想安装又怕硬盘上数据损坏
+### 10秒Linux(10secondLinux) ###
+这个主要是给想快速体验Linux的Windows小白,想安装又嫌麻烦，可以先体验一下
 * 实现原理: 绿色版VirtualBox里面有装好的linux虚拟机
 * 如何用: 插上U盘,双击可用Linux. 复制到电脑,双击可用.
 * 项目中文名(暂定):秒速Linux
@@ -11,7 +11,7 @@
  * 主OS(Host OS): WinXP,Win7,Win8,Win10,Win2003
  * 从OS(Guest OS): chuangke365,Deepin2015
  
-### 未来目标 ###
+### Todo ###
  * 用户可以通过这个工具备份自己的虚拟机,或者同步自己虚拟机到云空间
  * 用户可以在线下载别人分享的虚拟机模板
  * 本工具整合p2p下载
